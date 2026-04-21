@@ -3,7 +3,7 @@
 אתר פורטפוליו מקצועי ומעוצב עבור צלמת, המציג תיק עבודות מגוון, המלצות לקוחות וטופס ליצירת קשר פעיל.
 
 ## 🚀 Live Demo
-[צפו באתר החי ב-GitHub Pages](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)
+[צפו באתר החי ב-GitHub Pages](https://rut1122.github.io/Photographer-s-website/)
 
 ## ✨ תכונות עיקריות (Features)
 - **תיק עבודות מחולק לקטגוריות:** ניו-בורן, צילומי סטודיו, חוץ, אירועים, נופים ועוד.
