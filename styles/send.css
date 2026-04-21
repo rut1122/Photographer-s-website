@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+    color: rgb(33, 18, 18);
+    direction: rtl;
+}
+img{
+    width: 200px;
+    border-radius: 3.5px;
+}

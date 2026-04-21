@@ -1,0 +1,75 @@
+
+html{
+    background-color: #ddbaba;
+}
+#container-recommend{
+    direction: rtl;
+    width: 60%;
+    margin-left: 20%;
+    z-index: 1;
+}
+h2 {
+    text-align: center;
+    color: #441b1b;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    position: relative;
+    padding: 7px 0px;
+    font-weight: bold;
+    z-index: 0;
+    transition: transform 0.3s ease;
+    width: 187px;
+    margin: 0 auto;
+
+
+
+}
+hr {
+    border: none; 
+    height: 2px; 
+    background-color: black; 
+    margin: 20px 0; 
+}
+
+h2:hover {
+    transform: translateY(-5px);
+
+}
+.type{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:22px ;
+    text-decoration: underline;
+    transition: 2s ease;
+}
+.type:hover{
+    margin-right: 20px;
+}
+.text{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #441b1b;
+
+}
+.sign{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #854f4f;
+    font-size: 20px;
+}
+#logo{
+    width: 25%;
+    height: auto;
+    margin-left: 38%;
+    margin-top: 100px;
+    border-radius: 6px;
+    transition: all 2s ease;
+    z-index: 0;
+    background-attachment: fixed;
+    display: flex;
+}
+#logo:hover{
+    width: 20%;
+    height: auto;
+}
