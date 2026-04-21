@@ -13,20 +13,17 @@
 <body>
     <div id="container-call">
 
-        <form action="./send.html" method="get">
-
-
-
-            <h2>צור קשר</h2>
-            <div id="input">
-                <input class="input" type="text" placeholder="שם" required>
-                <input class="input" type="tel" placeholder="טלפון"><br />
-                <input class="input" type="email" placeholder="כתובת הדואר האלקטרוני שלך"><br />
-                <input class="input" id="text-call" type="text" placeholder="הודעה">
-                <button id="btn-call" type="submit"><a href="./send.html"></a>צור קשר</button>
-            </div>
-        </form>
-
+<form action="https://formspree.io/f/xjgjagjb" method="POST">
+        <h2>צור קשר</h2>
+    <div id="input">
+        <input class="input" type="text" name="שם המשתמש" placeholder="שם" required>
+        <input class="input" type="tel" name="טלפון" placeholder="טלפון"><br />
+        <input class="input" type="email" name="אימייל" placeholder="כתובת הדואר האלקטרוני שלך" required><br />
+        <input class="input" id="text-call" type="text" name="הודעה" placeholder="הודעה">
+        
+        <button id="btn-call" type="submit">שלחי הודעה</button>
+    </div>
+</form>
     </div>
     <a href="../pages/perfect.html"><img id="logo" src="../images/logo.png" alt="logo"></a>
 </body>
